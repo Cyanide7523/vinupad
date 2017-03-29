@@ -2,4 +2,5 @@
 Vinupad develop project
 
 > TODO LIST.
-> * Decide what lang or engine to use to make this
+>——————————
+> * ~~Decide what lang or engine to use to make this~~ -> Xamarin
